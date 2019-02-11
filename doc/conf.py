@@ -1,0 +1,6 @@
+project            = "Mana"
+source_suffix      = ".rst"
+master_doc         = "index"
+pygments_style     = "sphinx"
+highlight_language = "none"
+html_theme         = "nature"
